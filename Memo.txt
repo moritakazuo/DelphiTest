@@ -9,3 +9,4 @@ MacのRadRxでは、vsCodeのデフォルトをUTF8にもどした。
 
 TestBranchを作成し、そこで修正を加えている。
 さらに修正を加えている
+TestBranchをチェックアウトして修正を追加
